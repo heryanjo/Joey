@@ -1,0 +1,1124 @@
+{
+  "outlets": [
+    [
+      "BOPIK",
+      {
+        "code": "BOPIK",
+        "name": "Black Owl PIK",
+        "shortName": "PIK Golf Island",
+        "city": "Jakarta Utara",
+        "address": "Pantai Indah Kapuk, Jakarta Utara",
+        "votingActive": true,
+        "totalVotes": 171
+      }
+    ],
+    [
+      "BOKG",
+      {
+        "code": "BOKG",
+        "name": "Black Owl Kelapa Gading",
+        "shortName": "Kelapa Gading",
+        "city": "Jakarta Utara",
+        "address": "Jl. Boulevard Raya, Kelapa Gading, Jakarta Utara",
+        "votingActive": true,
+        "totalVotes": 139
+      }
+    ],
+    [
+      "BOGS",
+      {
+        "code": "BOGS",
+        "name": "Black Owl Gading Serpong",
+        "shortName": "Gading Serpong",
+        "city": "Tangerang",
+        "address": "Jl. Boulevard Il Lago, Gading Serpong, Tangerang",
+        "votingActive": true,
+        "totalVotes": 189
+      }
+    ],
+    [
+      "BOSCBD",
+      {
+        "code": "BOSCBD",
+        "name": "Black Owl SCBD",
+        "shortName": "SCBD Lot 8",
+        "city": "Jakarta Selatan",
+        "address": "Kawasan Sudirman Central Business District, Jakarta Selatan",
+        "votingActive": true,
+        "totalVotes": 171
+      }
+    ],
+    [
+      "BOSBY",
+      {
+        "code": "BOSBY",
+        "name": "Black Owl Surabaya",
+        "shortName": "Surabaya Kertajaya",
+        "city": "Surabaya",
+        "address": "Jl. Raya Kertajaya Indah, Surabaya",
+        "votingActive": false,
+        "totalVotes": 171
+      }
+    ],
+    [
+      "BOMDN",
+      {
+        "code": "BOMDN",
+        "name": "Black Owl Medan",
+        "shortName": "Medan Polonia",
+        "city": "Medan",
+        "address": "Jl. Imam Bonjol, Medan, Sumatera Utara",
+        "votingActive": true,
+        "totalVotes": 180
+      }
+    ]
+  ],
+  "contestants": [
+    [
+      "c_bopik_1",
+      {
+        "id": "c_bopik_1",
+        "outletCode": "BOPIK",
+        "number": 1,
+        "numberDisplay": "#01",
+        "name": "Valentina Valois",
+        "costume": "The Crimson Countess",
+        "description": "Custom designed couture for Black Owl Halloween Night at Black Owl PIK.",
+        "imageUrl": "https://images.unsplash.com/photo-1509248961158-e54f6934749c?auto=format&fit=crop&w=800&q=80",
+        "votes": 43,
+        "isActive": true,
+        "hasConsented": true,
+        "createdAt": "2026-10-22T00:36:50.567Z",
+        "isDemo": true
+      }
+    ],
+    [
+      "c_bopik_2",
+      {
+        "id": "c_bopik_2",
+        "outletCode": "BOPIK",
+        "number": 2,
+        "numberDisplay": "#02",
+        "name": "Kaelen Thorne",
+        "costume": "Venetian Plague Sovereign",
+        "description": "Custom designed couture for Black Owl Halloween Night at Black Owl PIK.",
+        "imageUrl": "https://images.unsplash.com/photo-1603775020644-eb8decd79994?auto=format&fit=crop&w=800&q=80",
+        "votes": 41,
+        "isActive": true,
+        "hasConsented": true,
+        "createdAt": "2026-10-22T01:36:50.568Z",
+        "isDemo": true
+      }
+    ],
+    [
+      "c_bopik_3",
+      {
+        "id": "c_bopik_3",
+        "outletCode": "BOPIK",
+        "number": 3,
+        "numberDisplay": "#03",
+        "name": "Aurelia Vance",
+        "costume": "Nocturnal Cyber Gorgon",
+        "description": "Custom designed couture for Black Owl Halloween Night at Black Owl PIK.",
+        "imageUrl": "https://images.unsplash.com/photo-1543610892-0b1f7e6d8ac1?auto=format&fit=crop&w=800&q=80",
+        "votes": 24,
+        "isActive": true,
+        "hasConsented": true,
+        "createdAt": "2026-10-22T02:36:50.568Z",
+        "isDemo": true
+      }
+    ],
+    [
+      "c_bopik_4",
+      {
+        "id": "c_bopik_4",
+        "outletCode": "BOPIK",
+        "number": 4,
+        "numberDisplay": "#04",
+        "name": "Dante Moretti",
+        "costume": "Obsidian Archangel",
+        "description": "Custom designed couture for Black Owl Halloween Night at Black Owl PIK.",
+        "imageUrl": "https://images.unsplash.com/photo-1568602471122-7832951cc4c5?auto=format&fit=crop&w=800&q=80",
+        "votes": 25,
+        "isActive": true,
+        "hasConsented": true,
+        "createdAt": "2026-10-22T03:36:50.568Z",
+        "isDemo": true
+      }
+    ],
+    [
+      "c_bopik_5",
+      {
+        "id": "c_bopik_5",
+        "outletCode": "BOPIK",
+        "number": 5,
+        "numberDisplay": "#05",
+        "name": "Seraphina Roux",
+        "costume": "Celestial Moon Priestess",
+        "description": "Custom designed couture for Black Owl Halloween Night at Black Owl PIK.",
+        "imageUrl": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=800&q=80",
+        "votes": 26,
+        "isActive": true,
+        "hasConsented": true,
+        "createdAt": "2026-10-22T04:36:50.568Z",
+        "isDemo": true
+      }
+    ],
+    [
+      "c_bopik_6",
+      {
+        "id": "c_bopik_6",
+        "outletCode": "BOPIK",
+        "number": 6,
+        "numberDisplay": "#06",
+        "name": "Marcus Sterling",
+        "costume": "Steampunk Alchemist Lord",
+        "description": "Custom designed couture for Black Owl Halloween Night at Black Owl PIK.",
+        "imageUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=800&q=80",
+        "votes": 12,
+        "isActive": true,
+        "hasConsented": true,
+        "createdAt": "2026-10-22T05:36:50.568Z",
+        "isDemo": true
+      }
+    ],
+    [
+      "c_bokg_1",
+      {
+        "id": "c_bokg_1",
+        "outletCode": "BOKG",
+        "number": 1,
+        "numberDisplay": "#01",
+        "name": "Valentina Valois",
+        "costume": "The Crimson Countess",
+        "description": "Custom designed couture for Black Owl Halloween Night at Black Owl Kelapa Gading.",
+        "imageUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=800&q=80",
+        "votes": 36,
+        "isActive": true,
+        "hasConsented": true,
+        "createdAt": "2026-10-22T00:36:50.568Z",
+        "isDemo": true
+      }
+    ],
+    [
+      "c_bokg_2",
+      {
+        "id": "c_bokg_2",
+        "outletCode": "BOKG",
+        "number": 2,
+        "numberDisplay": "#02",
+        "name": "Kaelen Thorne",
+        "costume": "Venetian Plague Sovereign",
+        "description": "Custom designed couture for Black Owl Halloween Night at Black Owl Kelapa Gading.",
+        "imageUrl": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?auto=format&fit=crop&w=800&q=80",
+        "votes": 31,
+        "isActive": true,
+        "hasConsented": true,
+        "createdAt": "2026-10-22T01:36:50.568Z",
+        "isDemo": true
+      }
+    ],
+    [
+      "c_bokg_3",
+      {
+        "id": "c_bokg_3",
+        "outletCode": "BOKG",
+        "number": 3,
+        "numberDisplay": "#03",
+        "name": "Aurelia Vance",
+        "costume": "Nocturnal Cyber Gorgon",
+        "description": "Custom designed couture for Black Owl Halloween Night at Black Owl Kelapa Gading.",
+        "imageUrl": "https://images.unsplash.com/photo-1509248961158-e54f6934749c?auto=format&fit=crop&w=800&q=80",
+        "votes": 24,
+        "isActive": true,
+        "hasConsented": true,
+        "createdAt": "2026-10-22T02:36:50.568Z",
+        "isDemo": true
+      }
+    ],
+    [
+      "c_bokg_4",
+      {
+        "id": "c_bokg_4",
+        "outletCode": "BOKG",
+        "number": 4,
+        "numberDisplay": "#04",
+        "name": "Dante Moretti",
+        "costume": "Obsidian Archangel",
+        "description": "Custom designed couture for Black Owl Halloween Night at Black Owl Kelapa Gading.",
+        "imageUrl": "https://images.unsplash.com/photo-1603775020644-eb8decd79994?auto=format&fit=crop&w=800&q=80",
+        "votes": 20,
+        "isActive": true,
+        "hasConsented": true,
+        "createdAt": "2026-10-22T03:36:50.568Z",
+        "isDemo": true
+      }
+    ],
+    [
+      "c_bokg_5",
+      {
+        "id": "c_bokg_5",
+        "outletCode": "BOKG",
+        "number": 5,
+        "numberDisplay": "#05",
+        "name": "Seraphina Roux",
+        "costume": "Celestial Moon Priestess",
+        "description": "Custom designed couture for Black Owl Halloween Night at Black Owl Kelapa Gading.",
+        "imageUrl": "https://images.unsplash.com/photo-1543610892-0b1f7e6d8ac1?auto=format&fit=crop&w=800&q=80",
+        "votes": 16,
+        "isActive": true,
+        "hasConsented": true,
+        "createdAt": "2026-10-22T04:36:50.568Z",
+        "isDemo": true
+      }
+    ],
+    [
+      "c_bokg_6",
+      {
+        "id": "c_bokg_6",
+        "outletCode": "BOKG",
+        "number": 6,
+        "numberDisplay": "#06",
+        "name": "Marcus Sterling",
+        "costume": "Steampunk Alchemist Lord",
+        "description": "Custom designed couture for Black Owl Halloween Night at Black Owl Kelapa Gading.",
+        "imageUrl": "https://images.unsplash.com/photo-1568602471122-7832951cc4c5?auto=format&fit=crop&w=800&q=80",
+        "votes": 12,
+        "isActive": true,
+        "hasConsented": true,
+        "createdAt": "2026-10-22T05:36:50.569Z",
+        "isDemo": true
+      }
+    ],
+    [
+      "c_bogs_1",
+      {
+        "id": "c_bogs_1",
+        "outletCode": "BOGS",
+        "number": 1,
+        "numberDisplay": "#01",
+        "name": "Valentina Valois",
+        "costume": "The Crimson Countess",
+        "description": "Custom designed couture for Black Owl Halloween Night at Black Owl Gading Serpong.",
+        "imageUrl": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=800&q=80",
+        "votes": 46,
+        "isActive": true,
+        "hasConsented": true,
+        "createdAt": "2026-10-22T00:36:50.569Z",
+        "isDemo": true
+      }
+    ],
+    [
+      "c_bogs_2",
+      {
+        "id": "c_bogs_2",
+        "outletCode": "BOGS",
+        "number": 2,
+        "numberDisplay": "#02",
+        "name": "Kaelen Thorne",
+        "costume": "Venetian Plague Sovereign",
+        "description": "Custom designed couture for Black Owl Halloween Night at Black Owl Gading Serpong.",
+        "imageUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=800&q=80",
+        "votes": 38,
+        "isActive": true,
+        "hasConsented": true,
+        "createdAt": "2026-10-22T01:36:50.569Z",
+        "isDemo": true
+      }
+    ],
+    [
+      "c_bogs_3",
+      {
+        "id": "c_bogs_3",
+        "outletCode": "BOGS",
+        "number": 3,
+        "numberDisplay": "#03",
+        "name": "Aurelia Vance",
+        "costume": "Nocturnal Cyber Gorgon",
+        "description": "Custom designed couture for Black Owl Halloween Night at Black Owl Gading Serpong.",
+        "imageUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=800&q=80",
+        "votes": 27,
+        "isActive": true,
+        "hasConsented": true,
+        "createdAt": "2026-10-22T02:36:50.569Z",
+        "isDemo": true
+      }
+    ],
+    [
+      "c_bogs_4",
+      {
+        "id": "c_bogs_4",
+        "outletCode": "BOGS",
+        "number": 4,
+        "numberDisplay": "#04",
+        "name": "Dante Moretti",
+        "costume": "Obsidian Archangel",
+        "description": "Custom designed couture for Black Owl Halloween Night at Black Owl Gading Serpong.",
+        "imageUrl": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?auto=format&fit=crop&w=800&q=80",
+        "votes": 34,
+        "isActive": true,
+        "hasConsented": true,
+        "createdAt": "2026-10-22T03:36:50.569Z",
+        "isDemo": true
+      }
+    ],
+    [
+      "c_bogs_5",
+      {
+        "id": "c_bogs_5",
+        "outletCode": "BOGS",
+        "number": 5,
+        "numberDisplay": "#05",
+        "name": "Seraphina Roux",
+        "costume": "Celestial Moon Priestess",
+        "description": "Custom designed couture for Black Owl Halloween Night at Black Owl Gading Serpong.",
+        "imageUrl": "https://images.unsplash.com/photo-1509248961158-e54f6934749c?auto=format&fit=crop&w=800&q=80",
+        "votes": 26,
+        "isActive": true,
+        "hasConsented": true,
+        "createdAt": "2026-10-22T04:36:50.569Z",
+        "isDemo": true
+      }
+    ],
+    [
+      "c_bogs_6",
+      {
+        "id": "c_bogs_6",
+        "outletCode": "BOGS",
+        "number": 6,
+        "numberDisplay": "#06",
+        "name": "Marcus Sterling",
+        "costume": "Steampunk Alchemist Lord",
+        "description": "Custom designed couture for Black Owl Halloween Night at Black Owl Gading Serpong.",
+        "imageUrl": "https://images.unsplash.com/photo-1603775020644-eb8decd79994?auto=format&fit=crop&w=800&q=80",
+        "votes": 18,
+        "isActive": true,
+        "hasConsented": true,
+        "createdAt": "2026-10-22T05:36:50.569Z",
+        "isDemo": true
+      }
+    ],
+    [
+      "c_boscbd_1",
+      {
+        "id": "c_boscbd_1",
+        "outletCode": "BOSCBD",
+        "number": 1,
+        "numberDisplay": "#01",
+        "name": "Valentina Valois",
+        "costume": "The Crimson Countess",
+        "description": "Custom designed couture for Black Owl Halloween Night at Black Owl SCBD.",
+        "imageUrl": "https://images.unsplash.com/photo-1543610892-0b1f7e6d8ac1?auto=format&fit=crop&w=800&q=80",
+        "votes": 43,
+        "isActive": true,
+        "hasConsented": true,
+        "createdAt": "2026-10-22T00:36:50.569Z",
+        "isDemo": true
+      }
+    ],
+    [
+      "c_boscbd_2",
+      {
+        "id": "c_boscbd_2",
+        "outletCode": "BOSCBD",
+        "number": 2,
+        "numberDisplay": "#02",
+        "name": "Kaelen Thorne",
+        "costume": "Venetian Plague Sovereign",
+        "description": "Custom designed couture for Black Owl Halloween Night at Black Owl SCBD.",
+        "imageUrl": "https://images.unsplash.com/photo-1568602471122-7832951cc4c5?auto=format&fit=crop&w=800&q=80",
+        "votes": 32,
+        "isActive": true,
+        "hasConsented": true,
+        "createdAt": "2026-10-22T01:36:50.569Z",
+        "isDemo": true
+      }
+    ],
+    [
+      "c_boscbd_3",
+      {
+        "id": "c_boscbd_3",
+        "outletCode": "BOSCBD",
+        "number": 3,
+        "numberDisplay": "#03",
+        "name": "Aurelia Vance",
+        "costume": "Nocturnal Cyber Gorgon",
+        "description": "Custom designed couture for Black Owl Halloween Night at Black Owl SCBD.",
+        "imageUrl": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=800&q=80",
+        "votes": 33,
+        "isActive": true,
+        "hasConsented": true,
+        "createdAt": "2026-10-22T02:36:50.569Z",
+        "isDemo": true
+      }
+    ],
+    [
+      "c_boscbd_4",
+      {
+        "id": "c_boscbd_4",
+        "outletCode": "BOSCBD",
+        "number": 4,
+        "numberDisplay": "#04",
+        "name": "Dante Moretti",
+        "costume": "Obsidian Archangel",
+        "description": "Custom designed couture for Black Owl Halloween Night at Black Owl SCBD.",
+        "imageUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=800&q=80",
+        "votes": 22,
+        "isActive": true,
+        "hasConsented": true,
+        "createdAt": "2026-10-22T03:36:50.569Z",
+        "isDemo": true
+      }
+    ],
+    [
+      "c_boscbd_5",
+      {
+        "id": "c_boscbd_5",
+        "outletCode": "BOSCBD",
+        "number": 5,
+        "numberDisplay": "#05",
+        "name": "Seraphina Roux",
+        "costume": "Celestial Moon Priestess",
+        "description": "Custom designed couture for Black Owl Halloween Night at Black Owl SCBD.",
+        "imageUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=800&q=80",
+        "votes": 26,
+        "isActive": true,
+        "hasConsented": true,
+        "createdAt": "2026-10-22T04:36:50.569Z",
+        "isDemo": true
+      }
+    ],
+    [
+      "c_boscbd_6",
+      {
+        "id": "c_boscbd_6",
+        "outletCode": "BOSCBD",
+        "number": 6,
+        "numberDisplay": "#06",
+        "name": "Marcus Sterling",
+        "costume": "Steampunk Alchemist Lord",
+        "description": "Custom designed couture for Black Owl Halloween Night at Black Owl SCBD.",
+        "imageUrl": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?auto=format&fit=crop&w=800&q=80",
+        "votes": 15,
+        "isActive": true,
+        "hasConsented": true,
+        "createdAt": "2026-10-22T05:36:50.569Z",
+        "isDemo": true
+      }
+    ],
+    [
+      "c_bosby_1",
+      {
+        "id": "c_bosby_1",
+        "outletCode": "BOSBY",
+        "number": 1,
+        "numberDisplay": "#01",
+        "name": "Valentina Valois",
+        "costume": "The Crimson Countess",
+        "description": "Custom designed couture for Black Owl Halloween Night at Black Owl Surabaya.",
+        "imageUrl": "https://images.unsplash.com/photo-1509248961158-e54f6934749c?auto=format&fit=crop&w=800&q=80",
+        "votes": 43,
+        "isActive": true,
+        "hasConsented": true,
+        "createdAt": "2026-10-22T00:36:50.569Z",
+        "isDemo": true
+      }
+    ],
+    [
+      "c_bosby_2",
+      {
+        "id": "c_bosby_2",
+        "outletCode": "BOSBY",
+        "number": 2,
+        "numberDisplay": "#02",
+        "name": "Kaelen Thorne",
+        "costume": "Venetian Plague Sovereign",
+        "description": "Custom designed couture for Black Owl Halloween Night at Black Owl Surabaya.",
+        "imageUrl": "https://images.unsplash.com/photo-1603775020644-eb8decd79994?auto=format&fit=crop&w=800&q=80",
+        "votes": 32,
+        "isActive": true,
+        "hasConsented": true,
+        "createdAt": "2026-10-22T01:36:50.569Z",
+        "isDemo": true
+      }
+    ],
+    [
+      "c_bosby_3",
+      {
+        "id": "c_bosby_3",
+        "outletCode": "BOSBY",
+        "number": 3,
+        "numberDisplay": "#03",
+        "name": "Aurelia Vance",
+        "costume": "Nocturnal Cyber Gorgon",
+        "description": "Custom designed couture for Black Owl Halloween Night at Black Owl Surabaya.",
+        "imageUrl": "https://images.unsplash.com/photo-1543610892-0b1f7e6d8ac1?auto=format&fit=crop&w=800&q=80",
+        "votes": 33,
+        "isActive": true,
+        "hasConsented": true,
+        "createdAt": "2026-10-22T02:36:50.569Z",
+        "isDemo": true
+      }
+    ],
+    [
+      "c_bosby_4",
+      {
+        "id": "c_bosby_4",
+        "outletCode": "BOSBY",
+        "number": 4,
+        "numberDisplay": "#04",
+        "name": "Dante Moretti",
+        "costume": "Obsidian Archangel",
+        "description": "Custom designed couture for Black Owl Halloween Night at Black Owl Surabaya.",
+        "imageUrl": "https://images.unsplash.com/photo-1568602471122-7832951cc4c5?auto=format&fit=crop&w=800&q=80",
+        "votes": 22,
+        "isActive": true,
+        "hasConsented": true,
+        "createdAt": "2026-10-22T03:36:50.569Z",
+        "isDemo": true
+      }
+    ],
+    [
+      "c_bosby_5",
+      {
+        "id": "c_bosby_5",
+        "outletCode": "BOSBY",
+        "number": 5,
+        "numberDisplay": "#05",
+        "name": "Seraphina Roux",
+        "costume": "Celestial Moon Priestess",
+        "description": "Custom designed couture for Black Owl Halloween Night at Black Owl Surabaya.",
+        "imageUrl": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=800&q=80",
+        "votes": 26,
+        "isActive": true,
+        "hasConsented": true,
+        "createdAt": "2026-10-22T04:36:50.569Z",
+        "isDemo": true
+      }
+    ],
+    [
+      "c_bosby_6",
+      {
+        "id": "c_bosby_6",
+        "outletCode": "BOSBY",
+        "number": 6,
+        "numberDisplay": "#06",
+        "name": "Marcus Sterling",
+        "costume": "Steampunk Alchemist Lord",
+        "description": "Custom designed couture for Black Owl Halloween Night at Black Owl Surabaya.",
+        "imageUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=800&q=80",
+        "votes": 15,
+        "isActive": true,
+        "hasConsented": true,
+        "createdAt": "2026-10-22T05:36:50.569Z",
+        "isDemo": true
+      }
+    ],
+    [
+      "c_bomdn_1",
+      {
+        "id": "c_bomdn_1",
+        "outletCode": "BOMDN",
+        "number": 1,
+        "numberDisplay": "#01",
+        "name": "Valentina Valois",
+        "costume": "The Crimson Countess",
+        "description": "Custom designed couture for Black Owl Halloween Night at Black Owl Medan.",
+        "imageUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=800&q=80",
+        "votes": 37,
+        "isActive": true,
+        "hasConsented": true,
+        "createdAt": "2026-10-22T00:36:50.569Z",
+        "isDemo": true
+      }
+    ],
+    [
+      "c_bomdn_2",
+      {
+        "id": "c_bomdn_2",
+        "outletCode": "BOMDN",
+        "number": 2,
+        "numberDisplay": "#02",
+        "name": "Kaelen Thorne",
+        "costume": "Venetian Plague Sovereign",
+        "description": "Custom designed couture for Black Owl Halloween Night at Black Owl Medan.",
+        "imageUrl": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?auto=format&fit=crop&w=800&q=80",
+        "votes": 35,
+        "isActive": true,
+        "hasConsented": true,
+        "createdAt": "2026-10-22T01:36:50.569Z",
+        "isDemo": true
+      }
+    ],
+    [
+      "c_bomdn_3",
+      {
+        "id": "c_bomdn_3",
+        "outletCode": "BOMDN",
+        "number": 3,
+        "numberDisplay": "#03",
+        "name": "Aurelia Vance",
+        "costume": "Nocturnal Cyber Gorgon",
+        "description": "Custom designed couture for Black Owl Halloween Night at Black Owl Medan.",
+        "imageUrl": "https://images.unsplash.com/photo-1509248961158-e54f6934749c?auto=format&fit=crop&w=800&q=80",
+        "votes": 30,
+        "isActive": true,
+        "hasConsented": true,
+        "createdAt": "2026-10-22T02:36:50.569Z",
+        "isDemo": true
+      }
+    ],
+    [
+      "c_bomdn_4",
+      {
+        "id": "c_bomdn_4",
+        "outletCode": "BOMDN",
+        "number": 4,
+        "numberDisplay": "#04",
+        "name": "Dante Moretti",
+        "costume": "Obsidian Archangel",
+        "description": "Custom designed couture for Black Owl Halloween Night at Black Owl Medan.",
+        "imageUrl": "https://images.unsplash.com/photo-1603775020644-eb8decd79994?auto=format&fit=crop&w=800&q=80",
+        "votes": 28,
+        "isActive": true,
+        "hasConsented": true,
+        "createdAt": "2026-10-22T03:36:50.569Z",
+        "isDemo": true
+      }
+    ],
+    [
+      "c_bomdn_5",
+      {
+        "id": "c_bomdn_5",
+        "outletCode": "BOMDN",
+        "number": 5,
+        "numberDisplay": "#05",
+        "name": "Seraphina Roux",
+        "costume": "Celestial Moon Priestess",
+        "description": "Custom designed couture for Black Owl Halloween Night at Black Owl Medan.",
+        "imageUrl": "https://images.unsplash.com/photo-1543610892-0b1f7e6d8ac1?auto=format&fit=crop&w=800&q=80",
+        "votes": 26,
+        "isActive": true,
+        "hasConsented": true,
+        "createdAt": "2026-10-22T04:36:50.569Z",
+        "isDemo": true
+      }
+    ],
+    [
+      "c_bomdn_6",
+      {
+        "id": "c_bomdn_6",
+        "outletCode": "BOMDN",
+        "number": 6,
+        "numberDisplay": "#06",
+        "name": "Marcus Sterling",
+        "costume": "Steampunk Alchemist Lord",
+        "description": "Custom designed couture for Black Owl Halloween Night at Black Owl Medan.",
+        "imageUrl": "https://images.unsplash.com/photo-1568602471122-7832951cc4c5?auto=format&fit=crop&w=800&q=80",
+        "votes": 24,
+        "isActive": true,
+        "hasConsented": true,
+        "createdAt": "2026-10-22T05:36:50.569Z",
+        "isDemo": true
+      }
+    ],
+    [
+      "c_bomdn_1792654610581_inib",
+      {
+        "id": "c_bomdn_1792654610581_inib",
+        "outletCode": "BOMDN",
+        "number": 7,
+        "numberDisplay": "#07",
+        "name": "Zero Vote Test Contestant",
+        "costume": "Shadow Stalker",
+        "imageUrl": "https://example.com/test.jpg",
+        "votes": 0,
+        "isActive": true,
+        "hasConsented": true,
+        "createdAt": "2026-10-22T07:36:50.581Z"
+      }
+    ],
+    [
+      "c_bogs_1792654610581_jm03",
+      {
+        "id": "c_bogs_1792654610581_jm03",
+        "outletCode": "BOGS",
+        "number": 7,
+        "numberDisplay": "#07",
+        "name": "Contestant Early",
+        "costume": "Theme A",
+        "imageUrl": "https://example.com/a.jpg",
+        "votes": 0,
+        "isActive": true,
+        "hasConsented": true,
+        "createdAt": "2026-10-22T07:36:50.581Z"
+      }
+    ],
+    [
+      "c_bogs_1792654610582_o6ha",
+      {
+        "id": "c_bogs_1792654610582_o6ha",
+        "outletCode": "BOGS",
+        "number": 8,
+        "numberDisplay": "#08",
+        "name": "Contestant Later",
+        "costume": "Theme B",
+        "imageUrl": "https://example.com/b.jpg",
+        "votes": 0,
+        "isActive": true,
+        "hasConsented": true,
+        "createdAt": "2026-10-22T07:36:50.582Z"
+      }
+    ],
+    [
+      "c_bomdn_1792654733246_7ufr",
+      {
+        "id": "c_bomdn_1792654733246_7ufr",
+        "outletCode": "BOMDN",
+        "number": 8,
+        "numberDisplay": "#08",
+        "name": "Zero Vote Test Contestant",
+        "costume": "Shadow Stalker",
+        "imageUrl": "https://example.com/test.jpg",
+        "votes": 0,
+        "isActive": true,
+        "hasConsented": true,
+        "createdAt": "2026-10-22T07:38:53.246Z"
+      }
+    ],
+    [
+      "c_bogs_1792654733247_705l",
+      {
+        "id": "c_bogs_1792654733247_705l",
+        "outletCode": "BOGS",
+        "number": 9,
+        "numberDisplay": "#09",
+        "name": "Contestant Early",
+        "costume": "Theme A",
+        "imageUrl": "https://example.com/a.jpg",
+        "votes": 0,
+        "isActive": true,
+        "hasConsented": true,
+        "createdAt": "2026-10-22T07:38:53.247Z"
+      }
+    ],
+    [
+      "c_bogs_1792654733247_sczf",
+      {
+        "id": "c_bogs_1792654733247_sczf",
+        "outletCode": "BOGS",
+        "number": 10,
+        "numberDisplay": "#10",
+        "name": "Contestant Later",
+        "costume": "Theme B",
+        "imageUrl": "https://example.com/b.jpg",
+        "votes": 0,
+        "isActive": true,
+        "hasConsented": true,
+        "createdAt": "2026-10-22T07:38:53.247Z"
+      }
+    ],
+    [
+      "c_bomdn_1792654733561_dx4j",
+      {
+        "id": "c_bomdn_1792654733561_dx4j",
+        "outletCode": "BOMDN",
+        "number": 9,
+        "numberDisplay": "#09",
+        "name": "Zero Vote Test Contestant",
+        "costume": "Shadow Stalker",
+        "imageUrl": "https://example.com/test.jpg",
+        "votes": 0,
+        "isActive": true,
+        "hasConsented": true,
+        "createdAt": "2026-10-22T07:38:53.561Z"
+      }
+    ],
+    [
+      "c_bogs_1792654733561_nwua",
+      {
+        "id": "c_bogs_1792654733561_nwua",
+        "outletCode": "BOGS",
+        "number": 11,
+        "numberDisplay": "#11",
+        "name": "Contestant Early",
+        "costume": "Theme A",
+        "imageUrl": "https://example.com/a.jpg",
+        "votes": 0,
+        "isActive": true,
+        "hasConsented": true,
+        "createdAt": "2026-10-22T07:38:53.561Z"
+      }
+    ],
+    [
+      "c_bogs_1792654733562_pqxy",
+      {
+        "id": "c_bogs_1792654733562_pqxy",
+        "outletCode": "BOGS",
+        "number": 12,
+        "numberDisplay": "#12",
+        "name": "Contestant Later",
+        "costume": "Theme B",
+        "imageUrl": "https://example.com/b.jpg",
+        "votes": 0,
+        "isActive": true,
+        "hasConsented": true,
+        "createdAt": "2026-10-22T07:38:53.562Z"
+      }
+    ]
+  ],
+  "votes": [
+    [
+      "bo-halloween-2026:3b89644c98b61bdabd15e16d697f59e4639b17e6d3622dda7ba52b3d30d9cca0",
+      {
+        "id": "v_1792654610576_w534zn",
+        "eventId": "bo-halloween-2026",
+        "voterHash": "3b89644c98b61bdabd15e16d697f59e4639b17e6d3622dda7ba52b3d30d9cca0",
+        "outletCode": "BOPIK",
+        "contestantId": "c_bopik_1",
+        "timestamp": "2026-10-22T07:36:50.576Z"
+      }
+    ],
+    [
+      "bo-halloween-2026:e3f82ea0783f37717dd5bd5477cb6a04a4cdbe5417f8038b5c6092b2b795a2d8",
+      {
+        "id": "v_1792654610577_w12cc7",
+        "eventId": "bo-halloween-2026",
+        "voterHash": "e3f82ea0783f37717dd5bd5477cb6a04a4cdbe5417f8038b5c6092b2b795a2d8",
+        "outletCode": "BOPIK",
+        "contestantId": "c_bopik_1",
+        "timestamp": "2026-10-22T07:36:50.577Z"
+      }
+    ],
+    [
+      "bo-halloween-2026:cfe4c772c534007cdd871f824327c73b7da355913a47a99ac66bb27c0220783f",
+      {
+        "id": "v_1792654610578_ftqyif",
+        "eventId": "bo-halloween-2026",
+        "voterHash": "cfe4c772c534007cdd871f824327c73b7da355913a47a99ac66bb27c0220783f",
+        "outletCode": "BOPIK",
+        "contestantId": "c_bopik_1",
+        "timestamp": "2026-10-22T07:36:50.578Z"
+      }
+    ],
+    [
+      "bo-halloween-2026:1008f31ffad027d12fcc1e842f9241852b78ad5334d524af7c776ba45e547f4d",
+      {
+        "id": "v_1792654610579_4pq5fl",
+        "eventId": "bo-halloween-2026",
+        "voterHash": "1008f31ffad027d12fcc1e842f9241852b78ad5334d524af7c776ba45e547f4d",
+        "outletCode": "BOKG",
+        "contestantId": "c_bokg_1",
+        "timestamp": "2026-10-22T07:36:50.579Z"
+      }
+    ]
+  ],
+  "boundOutlets": [
+    [
+      "3b89644c98b61bdabd15e16d697f59e4639b17e6d3622dda7ba52b3d30d9cca0",
+      "BOPIK"
+    ],
+    [
+      "e3f82ea0783f37717dd5bd5477cb6a04a4cdbe5417f8038b5c6092b2b795a2d8",
+      "BOPIK"
+    ],
+    [
+      "cfe4c772c534007cdd871f824327c73b7da355913a47a99ac66bb27c0220783f",
+      "BOPIK"
+    ],
+    [
+      "1008f31ffad027d12fcc1e842f9241852b78ad5334d524af7c776ba45e547f4d",
+      "BOKG"
+    ],
+    [
+      "c52061db00bf395cc8349cf13c6ff8ed794377eb77164637f928a344c2f0ed68",
+      "BOPIK"
+    ]
+  ],
+  "auditLogs": [
+    {
+      "id": "audit_1792654733562",
+      "timestamp": "2026-10-22T07:38:53.562Z",
+      "action": "CONTESTANT_ADDED",
+      "outletCode": "BOGS",
+      "actor": "TEST",
+      "details": "Added contestant #12 - Contestant Later (Theme B)."
+    },
+    {
+      "id": "audit_1792654733561",
+      "timestamp": "2026-10-22T07:38:53.561Z",
+      "action": "CONTESTANT_ADDED",
+      "outletCode": "BOGS",
+      "actor": "TEST",
+      "details": "Added contestant #11 - Contestant Early (Theme A)."
+    },
+    {
+      "id": "audit_1792654733561",
+      "timestamp": "2026-10-22T07:38:53.561Z",
+      "action": "CONTESTANT_ADDED",
+      "outletCode": "BOMDN",
+      "actor": "TEST",
+      "details": "Added contestant #09 - Zero Vote Test Contestant (Shadow Stalker)."
+    },
+    {
+      "id": "audit_1792654733558",
+      "timestamp": "2026-10-22T07:38:53.558Z",
+      "action": "VOTING_STATUS_CHANGED",
+      "outletCode": "BOSBY",
+      "actor": "TEST_ADMIN",
+      "details": "Voting CLOSED for Black Owl Surabaya."
+    },
+    {
+      "id": "audit_1792654733247",
+      "timestamp": "2026-10-22T07:38:53.247Z",
+      "action": "CONTESTANT_ADDED",
+      "outletCode": "BOGS",
+      "actor": "TEST",
+      "details": "Added contestant #10 - Contestant Later (Theme B)."
+    },
+    {
+      "id": "audit_1792654733247",
+      "timestamp": "2026-10-22T07:38:53.247Z",
+      "action": "CONTESTANT_ADDED",
+      "outletCode": "BOGS",
+      "actor": "TEST",
+      "details": "Added contestant #09 - Contestant Early (Theme A)."
+    },
+    {
+      "id": "audit_1792654733246",
+      "timestamp": "2026-10-22T07:38:53.246Z",
+      "action": "CONTESTANT_ADDED",
+      "outletCode": "BOMDN",
+      "actor": "TEST",
+      "details": "Added contestant #08 - Zero Vote Test Contestant (Shadow Stalker)."
+    },
+    {
+      "id": "audit_1792654733242",
+      "timestamp": "2026-10-22T07:38:53.242Z",
+      "action": "VOTING_STATUS_CHANGED",
+      "outletCode": "BOSBY",
+      "actor": "TEST_ADMIN",
+      "details": "Voting CLOSED for Black Owl Surabaya."
+    },
+    {
+      "id": "audit_1792654610582",
+      "timestamp": "2026-10-22T07:36:50.582Z",
+      "action": "CONTESTANT_ADDED",
+      "outletCode": "BOGS",
+      "actor": "TEST",
+      "details": "Added contestant #08 - Contestant Later (Theme B)."
+    },
+    {
+      "id": "audit_1792654610581",
+      "timestamp": "2026-10-22T07:36:50.581Z",
+      "action": "CONTESTANT_ADDED",
+      "outletCode": "BOGS",
+      "actor": "TEST",
+      "details": "Added contestant #07 - Contestant Early (Theme A)."
+    },
+    {
+      "id": "audit_1792654610581",
+      "timestamp": "2026-10-22T07:36:50.581Z",
+      "action": "CONTESTANT_ADDED",
+      "outletCode": "BOMDN",
+      "actor": "TEST",
+      "details": "Added contestant #07 - Zero Vote Test Contestant (Shadow Stalker)."
+    },
+    {
+      "id": "audit_1792654610580",
+      "timestamp": "2026-10-22T07:36:50.580Z",
+      "action": "VOTING_STATUS_CHANGED",
+      "outletCode": "BOSBY",
+      "actor": "TEST_ADMIN",
+      "details": "Voting CLOSED for Black Owl Surabaya."
+    },
+    {
+      "id": "audit_1792654610579",
+      "timestamp": "2026-10-22T07:36:50.579Z",
+      "action": "VOTE_CAST",
+      "outletCode": "BOKG",
+      "actor": "VOTER_1008f31f",
+      "details": "Cast 1 vote for #01 - Valentina Valois."
+    },
+    {
+      "id": "audit_1792654610578",
+      "timestamp": "2026-10-22T07:36:50.578Z",
+      "action": "VOTE_CAST",
+      "outletCode": "BOPIK",
+      "actor": "VOTER_cfe4c772",
+      "details": "Cast 1 vote for #01 - Valentina Valois."
+    },
+    {
+      "id": "audit_1792654610577",
+      "timestamp": "2026-10-22T07:36:50.577Z",
+      "action": "VOTE_CAST",
+      "outletCode": "BOPIK",
+      "actor": "VOTER_e3f82ea0",
+      "details": "Cast 1 vote for #01 - Valentina Valois."
+    },
+    {
+      "id": "audit_1792654610576",
+      "timestamp": "2026-10-22T07:36:50.576Z",
+      "action": "VOTE_CAST",
+      "outletCode": "BOPIK",
+      "actor": "VOTER_3b89644c",
+      "details": "Cast 1 vote for #01 - Valentina Valois."
+    },
+    {
+      "id": "audit_1792654610569",
+      "timestamp": "2026-10-22T07:36:50.569Z",
+      "action": "RESET_DEMO",
+      "outletCode": "BOPIK",
+      "actor": "SYSTEM_BOOT",
+      "details": "Initialized demo contestants and baseline vote counts for all 6 outlets."
+    }
+  ],
+  "staffUsers": [
+    {
+      "email": "heryanjojo@gmail.com",
+      "name": "Heryan Jojo",
+      "role": "SUPER_ADMIN"
+    },
+    {
+      "email": "superadmin@blackowl.id",
+      "name": "Black Owl Head of Events",
+      "role": "SUPER_ADMIN"
+    },
+    {
+      "email": "admin.pik@blackowl.id",
+      "name": "Outlet Lead — PIK",
+      "role": "OUTLET_ADMIN",
+      "assignedOutlet": "BOPIK"
+    },
+    {
+      "email": "admin.scbd@blackowl.id",
+      "name": "Outlet Lead — SCBD",
+      "role": "OUTLET_ADMIN",
+      "assignedOutlet": "BOSCBD"
+    },
+    {
+      "email": "admin.kg@blackowl.id",
+      "name": "Outlet Lead — Kelapa Gading",
+      "role": "OUTLET_ADMIN",
+      "assignedOutlet": "BOKG"
+    },
+    {
+      "email": "admin.gs@blackowl.id",
+      "name": "Outlet Lead — Gading Serpong",
+      "role": "OUTLET_ADMIN",
+      "assignedOutlet": "BOGS"
+    },
+    {
+      "email": "admin.sby@blackowl.id",
+      "name": "Outlet Lead — Surabaya",
+      "role": "OUTLET_ADMIN",
+      "assignedOutlet": "BOSBY"
+    },
+    {
+      "email": "admin.mdn@blackowl.id",
+      "name": "Outlet Lead — Medan",
+      "role": "OUTLET_ADMIN",
+      "assignedOutlet": "BOMDN"
+    }
+  ]
+}
